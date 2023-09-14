@@ -9,3 +9,7 @@ c. sprint planning meeting:
   retrospective meeting:
     .discuss work completed
     .move uncompleted work to backlog
+d. epic: large body of work
+    story: software system req
+    bug: smallest unit of work
+    task: generic term that can describe anything
