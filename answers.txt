@@ -1,2 +1,11 @@
 a. the product owner is equivaent to a public figure of the company. essentially they deal with customers, and relay the customers needs to the team, while also keeping the team on track to ensure the backlog of tasks are being done when needed.
 b. the scrum master works as the leader and makes sure the team is following scrum processes, while the product owner works as a customer service rep and makes sure the team knows the clients needs.
+c. sprint planning meeting:
+    .determine what to complete in upcoming sprint
+    .assign teams to stories
+  daily scrum:
+    .discuss work completed
+    .discuss work planned
+  retrospective meeting:
+    .discuss work completed
+    .move uncompleted work to backlog
